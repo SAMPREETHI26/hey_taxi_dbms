@@ -1,7 +1,7 @@
 # Hey Taxii – Ride Booking Application
 
 ## Overview
-Hey Taxii is a ride-booking app that helps usres to book rides, calculate fares using distance with help of OpenStreetMap APIs. 
+Hey Taxii is a ride-booking app that helps users to book rides, calculate fares using distance with help of OpenStreetMap APIs. 
 
 It is built with Python and MySQL for easy and reliable bookings.
 
